@@ -74,8 +74,8 @@ Operation	Cook Syntax (Alternative)	Result
 Addition	a plus b (a + b)	13
 Subtraction	a minus b (a - b)	7
 Multiplication	a times b (a * b)	30
-※Jp:翻訳にはgoogleのAIモードを使用しました
-※En:Translation was performed using Google's AI mode.
 Division	a divided by b (a / b)	3.333
 Modulo	a mod b (a % b)	1
 Power	a power b (a ** b)	1000
+※Jp:翻訳にはgoogleのAIモードを使用しました
+※En:Translation was performed using Google's AI mode.
