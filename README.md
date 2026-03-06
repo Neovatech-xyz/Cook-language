@@ -1,6 +1,6 @@
 ※ Note: I am a Japanese junior high school student. There might be some grammatical or spelling errors in the code or documentation.
 
-書き方・使い方の日本語はcook.txtの中に書いてあります
+書き方・使い方の日本語版はcook.txtの中に書いてあります
 
 Jp:このプロジェクトのコードは、Googleの「Antigravity」を使用して生成されました。
 En:The code for this project was generated using Google Antigravity.
