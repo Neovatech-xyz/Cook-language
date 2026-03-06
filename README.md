@@ -2,8 +2,9 @@
 Jp:このプロジェクトのコードは、Googleの「Antigravity」を使用して生成されました。
 En:The code for this project was generated using Google Antigravity.
 
-jp:解凍したファイルをzipファイルから出して使うことをお勧めします（zipファイルの中から起動できるかの検証を行っておりません。右クリックですべて解凍してください）
-En:It is recommended to extract the files from the ZIP archive before use. (Operation inside a ZIP file has not been verified.)
+jp:解凍したファイルをzipファイルから出して使うことをお勧めします（zipファイルの中から起動できるかの検証を行っておりません。右クリックですべて解凍してください。デスクトップ等にcook_language_mainだけがある状態にしてください。デスクトップ等のcook_language_main(2)の中にcook_language_mainがあるような状態も検証していません。解凍するときのパスに気を付けてください（まぁそうなったら出すだけだけど))
+En:We recommend extracting the files from the ZIP folder before use. (We have not tested whether the program runs correctly directly from within the ZIP folder.) Please right-click and select "Extract All."
+Ensure that the "cook_language_main" folder is placed directly on your desktop (or in your preferred location). We have not verified the program's behavior if it is nested inside another folder, such as cook_language_main(2)/cook_language_main. Please be mindful of the file path when extracting (though if it ends up nested, you can simply move the folder out).
 
 
 1. How to Run
