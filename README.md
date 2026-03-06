@@ -2,7 +2,7 @@
 Jp:このプロジェクトのコードは、Googleの「Antigravity」を使用して生成されました。
 En:The code for this project was generated using Google Antigravity.
 
-jp:解凍したファイルをzipファイルから出して使うことをお勧めします（zipファイルの中から起動できるかの検証を行っておりません）
+jp:解凍したファイルをzipファイルから出して使うことをお勧めします（zipファイルの中から起動できるかの検証を行っておりません。右クリックですべて解凍してください）
 En:It is recommended to extract the files from the ZIP archive before use. (Operation inside a ZIP file has not been verified.)
 
 
