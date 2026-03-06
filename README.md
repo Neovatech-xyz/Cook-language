@@ -2,6 +2,9 @@
 Jp:このプロジェクトのコードは、Googleの「Antigravity」を使用して生成されました。
 En:The code for this project was generated using Google Antigravity.
 
+jp:解凍したファイルをzipファイルから出して使うことをお勧めします（zipファイルの中から起動できるかの検証を行っておりません）
+En:We recommend extracting the files from the ZIP file before use (we have not verified whether they can be launched directly from within the ZIP file).
+
 1. How to Run
 Write your code in a text editor and save it as test.cook.
 Open your terminal and cd to the directory containing the file.
